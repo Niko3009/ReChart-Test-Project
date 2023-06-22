@@ -1,7 +1,7 @@
 # Интерфейс приложения
 
-Приложение - модификация примера http://recharts.org/en-US/examples/SimpleLineChart 
-Раскрашены все участки графиков, на которых модуль z-score > 1 в красный цвет. 
+Приложение - модификация примера http://recharts.org/en-US/examples/SimpleLineChart.
+Раскрашены все участки графиков, на которых модуль z-score > 1 в красный цвет.
 Цвет точек графика совпадает с цветом участка.
 Справка по расчету z-score: https://en.wikipedia.org/wiki/Standard_score.
 
